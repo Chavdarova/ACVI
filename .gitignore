@@ -1,0 +1,4 @@
+*.DS_Store
+results*
+*pyc
+*__pycache__*
